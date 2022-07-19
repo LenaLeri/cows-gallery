@@ -12,7 +12,7 @@ h1 {
   color: #d41443;
 }
 
-/* .queen {
+.queen {
   margin: 0 auto;
   margin-bottom: 20px;
   display: inline-block;
@@ -22,7 +22,7 @@ h1 {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
   border-radius: 20px;
   transition: all 0.25s ease-in-out;
-} */
+}
 
 .grid-container {
   columns: 4;
